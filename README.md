@@ -1,4 +1,16 @@
-# Leads Finder
+<div align="center">
+
+<sub>PROSPECÇÃO</sub>
+
+<h1>Leads Finder</h1>
+
+<p>Pesquisa, análise e acompanhamento de oportunidades.</p>
+
+<p><a href="#estado-deste-repositório">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#proposta-de-uso">Proposta de uso</a> &nbsp;·&nbsp; <a href="#organização-prevista-de-um-lead">Organização prevista de um lead</a> &nbsp;·&nbsp; <a href="#obter-a-documentação">Obter a documentação</a> &nbsp;·&nbsp; <a href="#privacidade-e-colaboração">Privacidade e colaboração</a></p>
+
+</div>
+
+---
 
 Projeto voltado à organização da prospecção de potenciais clientes para serviços digitais.
 
