@@ -59,3 +59,7 @@ Não publique listas privadas de contatos, credenciais ou dados pessoais neste r
 Contribuições podem partir de issues e pull requests com melhorias na proposta e na documentação.
 
 Desenvolvido por **Paulo Matheus**.
+
+---
+
+Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
