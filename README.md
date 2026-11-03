@@ -1,89 +1,49 @@
 # Leads Finder
 
-Ferramenta desenvolvida para auxiliar na **prospecção de potenciais clientes**, tornando mais rápido o processo de pesquisa, análise e organização de leads.
+Projeto voltado à organização da prospecção de potenciais clientes para serviços digitais.
 
-O projeto surgiu de uma necessidade prática: encontrar empresas e profissionais que possam precisar de serviços digitais, reduzindo o trabalho manual durante a prospecção.
+A proposta é reunir pesquisa, análise de oportunidades e acompanhamento de contatos em um fluxo mais organizado:
 
-## Sobre o projeto
+**Pesquisa → Lead → Análise → Contato**
 
-O **Leads Finder** foi criado para apoiar o processo de busca por novos clientes.
+## Estado deste repositório
 
-A ideia é facilitar etapas como:
+Atualmente, a branch principal contém somente este README. O código da ferramenta, as dependências e os scripts de execução ainda não estão publicados aqui.
 
-- pesquisa de potenciais clientes;
-- identificação de empresas e profissionais;
-- organização dos leads encontrados;
-- análise de possíveis oportunidades;
-- apoio ao processo de prospecção comercial.
+As seções abaixo descrevem a proposta do projeto, sem afirmar que esses recursos já estão disponíveis neste clone.
 
-O projeto é utilizado principalmente como uma ferramenta interna para tornar a busca por clientes mais organizada e eficiente.
+## Proposta de uso
 
-## Objetivo
+- Pesquisar empresas e profissionais por segmento.
+- Organizar informações comerciais públicas.
+- Registrar observações e status de acompanhamento.
+- Identificar oportunidades de presença digital.
 
-Em vez de pesquisar empresas manualmente, abrir vários resultados e organizar todas as informações separadamente, o Leads Finder busca centralizar e simplificar esse processo.
+Entre os segmentos considerados estão comércios locais, prestadores de serviços, escritórios, imobiliárias e restaurantes.
 
-O foco é transformar:
+## Organização prevista de um lead
 
-`Pesquisa → Lead → Análise → Contato`
+| Informação | Finalidade |
+| --- | --- |
+| Empresa e segmento | Identificar o negócio e sua área |
+| Localização | Contextualizar a região de atuação |
+| Site e redes sociais | Consultar a presença digital |
+| Contato comercial público | Registrar o canal disponibilizado pelo negócio |
+| Observações e status | Acompanhar a análise e os próximos passos |
 
-em um fluxo mais rápido e organizado.
+## Obter a documentação
 
-## Casos de uso
-
-O Leads Finder pode ser utilizado para pesquisar potenciais clientes de diferentes segmentos, como:
-
-- escritórios e profissionais autônomos;
-- imobiliárias;
-- oficinas;
-- lojas;
-- restaurantes;
-- empresas locais;
-- prestadores de serviços;
-- outros negócios com potencial para contratação de serviços digitais.
-
-## Informações de um lead
-
-Dependendo da fonte consultada e das informações disponíveis publicamente, um lead pode conter dados como:
-
-```text
-Empresa
-Segmento
-Localização
-Site
-Telefone comercial
-Redes sociais
-Observações
-Status do lead
+```bash
+git clone https://github.com/paulomatheus-bz/leads-finder.git
+cd leads-finder
 ```
 
-## Fluxo
+Não há comando de instalação ou inicialização confirmado enquanto o código não for adicionado.
 
-```text
-Definição do nicho
-       ↓
-Pesquisa
-       ↓
-Coleta de informações públicas
-       ↓
-Análise do potencial cliente
-       ↓
-Organização do lead
-       ↓
-Prospecção
-```
+## Privacidade e colaboração
 
-## Desenvolvimento
+Não publique listas privadas de contatos, credenciais ou dados pessoais neste repositório. O uso de informações comerciais públicas deve respeitar os termos das fontes e a finalidade da coleta.
 
-Este é um projeto independente criado para uso em prospecção e experimentação de novas formas de encontrar potenciais clientes.
-
-Novas funcionalidades e melhorias podem ser adicionadas conforme o projeto evolui.
-
-## Privacidade
-
-A ferramenta foi pensada para trabalhar com **informações comerciais disponibilizadas publicamente**.
-
-O uso dos dados encontrados deve respeitar a legislação aplicável, os termos das fontes consultadas e boas práticas de privacidade e prospecção.
-
----
+Contribuições podem partir de issues e pull requests com melhorias na proposta e na documentação.
 
 Desenvolvido por **Paulo Matheus**.
