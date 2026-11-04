@@ -8,58 +8,26 @@
 
 ---
 
-
 <!-- readme:project-navigation -->
-<p align="center"><sub><a href="#estado-deste-repositorio">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#proposta-de-uso">Proposta de uso</a> &nbsp;·&nbsp; <a href="#organizacao-prevista-de-um-lead">Organização prevista de um lead</a> &nbsp;·&nbsp; <a href="#obter-a-documentacao">Obter a documentação</a> &nbsp;·&nbsp; <a href="#privacidade-e-colaboracao">Privacidade e colaboração</a></sub></p>
+<p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
 <!-- /readme:project-navigation -->
-Projeto voltado à organização da prospecção de potenciais clientes para serviços digitais.
 
-A proposta é reunir pesquisa, análise de oportunidades e acompanhamento de contatos em um fluxo mais organizado:
+## Sobre
 
-**Pesquisa → Lead → Análise → Contato**
+Rascunho de uma ferramenta para organizar prospecção comercial sem misturar contatos, observações e próximos passos.
 
-## Estado deste repositório
+## Estado atual
 
-Atualmente, a branch principal contém somente este README. O código da ferramenta, as dependências e os scripts de execução ainda não estão publicados aqui.
+**Em organização.** Este repositório ainda guarda somente a documentação. O código-fonte não foi enviado.
 
-As seções abaixo descrevem a proposta do projeto, sem afirmar que esses recursos já estão disponíveis neste clone.
+## Linguagens
 
-## Proposta de uso
+Nenhuma linguagem detectada: só há documentação neste repositório.
 
-- Pesquisar empresas e profissionais por segmento.
-- Organizar informações comerciais públicas.
-- Registrar observações e status de acompanhamento.
-- Identificar oportunidades de presença digital.
+## Próximo passo
 
-Entre os segmentos considerados estão comércios locais, prestadores de serviços, escritórios, imobiliárias e restaurantes.
-
-## Organização prevista de um lead
-
-| Informação | Finalidade |
-| --- | --- |
-| Empresa e segmento | Identificar o negócio e sua área |
-| Localização | Contextualizar a região de atuação |
-| Site e redes sociais | Consultar a presença digital |
-| Contato comercial público | Registrar o canal disponibilizado pelo negócio |
-| Observações e status | Acompanhar a análise e os próximos passos |
-
-## Obter a documentação
-
-```bash
-git clone https://github.com/paulomatheus-bz/leads-finder.git
-cd leads-finder
-```
-
-Não há comando de instalação ou inicialização confirmado enquanto o código não for adicionado.
-
-## Privacidade e colaboração
-
-Não publique listas privadas de contatos, credenciais ou dados pessoais neste repositório. O uso de informações comerciais públicas deve respeitar os termos das fontes e a finalidade da coleta.
-
-Contribuições podem partir de issues e pull requests com melhorias na proposta e na documentação.
+Transformar a documentação em uma primeira versão funcional.
 
 ---
 
-<p align="center">
-  <sub><strong>Prospecção</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
-</p>
+<p align="center"><sub>Prospecção · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
