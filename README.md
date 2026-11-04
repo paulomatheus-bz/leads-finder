@@ -8,6 +8,10 @@
 
 ---
 
+
+<!-- readme:project-navigation -->
+<p align="center"><sub>[Estado deste repositório](#estado-deste-repositorio) · [Proposta de uso](#proposta-de-uso) · [Organização prevista de um lead](#organizacao-prevista-de-um-lead) · [Obter a documentação](#obter-a-documentacao) · [Privacidade e colaboração](#privacidade-e-colaboracao)</sub></p>
+<!-- /readme:project-navigation -->
 Projeto voltado à organização da prospecção de potenciais clientes para serviços digitais.
 
 A proposta é reunir pesquisa, análise de oportunidades e acompanhamento de contatos em um fluxo mais organizado:
@@ -54,8 +58,8 @@ Não publique listas privadas de contatos, credenciais ou dados pessoais neste r
 
 Contribuições podem partir de issues e pull requests com melhorias na proposta e na documentação.
 
-Desenvolvido por **Paulo Matheus**.
-
 ---
 
-Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
+<p align="center">
+  <sub><strong>Prospecção</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
+</p>
