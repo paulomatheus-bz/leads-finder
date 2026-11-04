@@ -2,7 +2,7 @@
 
 <p align="center">Pesquisa, qualificação e organização de oportunidades comerciais.</p>
 
-<p align="center">![pesquisa](https://img.shields.io/badge/pesquisa-0891B2?style=flat-square&labelColor=111827) ![leads](https://img.shields.io/badge/leads-0891B2?style=flat-square&labelColor=111827) ![workflow](https://img.shields.io/badge/workflow-0891B2?style=flat-square&labelColor=111827)</p>
+<p align="center"><img alt="pesquisa" src="https://img.shields.io/badge/pesquisa-0891B2?style=flat-square&labelColor=111827" /> <img alt="leads" src="https://img.shields.io/badge/leads-0891B2?style=flat-square&labelColor=111827" /> <img alt="workflow" src="https://img.shields.io/badge/workflow-0891B2?style=flat-square&labelColor=111827" /></p>
 
 <table><tr><td><strong>Categoria</strong></td><td>PROSPECÇÃO</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
 
