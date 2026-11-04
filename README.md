@@ -10,7 +10,7 @@
 
 
 <!-- readme:project-navigation -->
-<p align="center"><sub>[Estado deste repositório](#estado-deste-repositorio) · [Proposta de uso](#proposta-de-uso) · [Organização prevista de um lead](#organizacao-prevista-de-um-lead) · [Obter a documentação](#obter-a-documentacao) · [Privacidade e colaboração](#privacidade-e-colaboracao)</sub></p>
+<p align="center"><sub><a href="#estado-deste-repositorio">Estado deste repositório</a> &nbsp;·&nbsp; <a href="#proposta-de-uso">Proposta de uso</a> &nbsp;·&nbsp; <a href="#organizacao-prevista-de-um-lead">Organização prevista de um lead</a> &nbsp;·&nbsp; <a href="#obter-a-documentacao">Obter a documentação</a> &nbsp;·&nbsp; <a href="#privacidade-e-colaboracao">Privacidade e colaboração</a></sub></p>
 <!-- /readme:project-navigation -->
 Projeto voltado à organização da prospecção de potenciais clientes para serviços digitais.
 
