@@ -1,10 +1,14 @@
-<h1 align="center">Leads Finder</h1>
+<div align="center">
 
-<p align="center">Pesquisa, qualificação e organização de oportunidades comerciais.</p>
+# Leads Finder
 
-<p align="center"><img alt="pesquisa" src="https://img.shields.io/badge/pesquisa-0891B2?style=flat-square&labelColor=111827" /> <img alt="leads" src="https://img.shields.io/badge/leads-0891B2?style=flat-square&labelColor=111827" /> <img alt="workflow" src="https://img.shields.io/badge/workflow-0891B2?style=flat-square&labelColor=111827" /></p>
+<p>Ferramenta em planejamento para organizar prospecção.</p>
 
-<table><tr><td><strong>Categoria</strong></td><td>PROSPECÇÃO</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
+
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
