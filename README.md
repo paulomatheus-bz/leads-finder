@@ -9,3 +9,6 @@ Reunir informações de potenciais clientes em um fluxo simples de pesquisa e ac
 ## Situação do repositório
 
 Neste momento há documentação e planejamento, mas não uma implementação versionada. Por isso, o GitHub ainda não apresenta linguagens para este projeto.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
