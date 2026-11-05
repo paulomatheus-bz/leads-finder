@@ -19,4 +19,8 @@ Privacidade e uso responsável fazem parte do escopo: não armazenar informaçõ
 
 Este repositório ainda não contém o código da aplicação. Next.js e TypeScript são a stack prevista para o primeiro protótipo; os badges não significam que esses recursos já estejam implementados.
 
+## Continuidade do projeto
+
+Antes de implementar, vou definir quais campos realmente ajudam a acompanhar uma prospecção e como cada informação será obtida. A primeira versão deve ser pequena e deixar claro o que é anotado manualmente e o que vem de uma fonte externa.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
