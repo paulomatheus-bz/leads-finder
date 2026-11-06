@@ -6,7 +6,7 @@
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Estou planejando uma ferramenta para organizar a pesquisa e o acompanhamento de contatos comerciais.
 
 ## Ideia do projeto
