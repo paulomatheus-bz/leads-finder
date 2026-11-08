@@ -1,8 +1,6 @@
-<div align="center">
-
 # Leads Finder
 
-*Estou planejando uma ferramenta para organizar a pesquisa e o acompanhamento de contatos comerciais.*
+Estou planejando uma ferramenta para organizar a pesquisa e o acompanhamento de contatos comerciais.
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -10,7 +8,7 @@
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" />
 </p>
 
-</div>
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Ideia do projeto
