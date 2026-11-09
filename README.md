@@ -1,6 +1,6 @@
 # Leads Finder
 
-Estou planejando uma ferramenta para organizar a pesquisa e o acompanhamento de contatos comerciais.
+A proposta é desenvolver uma ferramenta para organizar a pesquisa e o acompanhamento de contatos comerciais.
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
