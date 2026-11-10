@@ -10,8 +10,8 @@ Ideia de ferramenta para organizar pesquisas e acompanhar contatos comerciais.
 
 ---
 
-A ideia é organizar pesquisas e acompanhar o andamento de contatos comerciais. Antes de implementar, é preciso decidir quais dados são úteis e de que fontes eles virão.
+A ideia é registrar pesquisas e acompanhar contatos comerciais. Ainda falta definir quais informações serão anotadas e de onde virão.
 
-Privacidade faz parte do escopo: coletar somente o necessário e respeitar os termos das fontes consultadas. Ainda não há código da aplicação neste repositório. Next.js e TypeScript são a stack prevista para o protótipo.
+Não há código da aplicação neste repositório. Next.js e TypeScript são a stack prevista. O projeto deve guardar somente os dados necessários e respeitar as regras das fontes consultadas.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
