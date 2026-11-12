@@ -14,4 +14,9 @@ A ideia é registrar pesquisas e acompanhar contatos comerciais. Ainda falta def
 
 Não há código da aplicação neste repositório. Next.js e TypeScript são a stack prevista. O projeto deve guardar somente os dados necessários e respeitar as regras das fontes consultadas.
 
+
+## Organização comercial
+
+Conceito de ferramenta para registrar pesquisas, organizar contatos e acompanhar oportunidades comerciais.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
